@@ -1,4 +1,16 @@
-#player #list{width:22px !important; left:85px !important; top:0.8px !important; background:url(http://static.tumblr.com/qft2cvq/UGYn4owrv/base_1.png) !important; } 
+/********************************************************************
+
+skin por fckraw.tumblr.com
+plagiar só significa q vc precisa de mim pra prestar
+
+skin: nebulosa rosa
+
+para usar a skin, pegue a url dela (o www)
+e cole no campo CUSTOM SKIN do http://scmplayer.net/
+
+********************************************************************/
+
+#player #list{width:22px !important; left:85px !important; top:0.8px !important; background:url(http://puu.sh/vZjrW/b8e08083df.png) !important; } 
 #player #play {background:url(http://puu.sh/vZjgJ/7186f3ce6f.png);} 
 #player #previous{left:26px !important;} 
 #player #baseLeft{width:93px;} 
@@ -22,5 +34,8 @@
 #player .button{width:28px;} 
 #player #play, #player #pause{left:2px !important;} 
 #player #play, #player #pause{left:28px;} 
-#playlist h3{ font-style:normal !important; text-align:left !important; font-family:arial;font-size:14px;text-transform:lowercase;color: #9c9c9c !important; font-weight:normal; background:url(http://static.tumblr.com/qft2cvq/1ytn26wno/3.png);} #playlist {font-family:'Arial' !important; text-transform:lowercase; background-color:#fff !important;} #playlist .focus{letter-spacing:1px;} #playlist .items{ list-style-type:circle !important; font-family:'Arial'; font-size:11px; } #playlist .module {color: #cbcbcb; border:none !important; text-transform:lowercase;  font-style:italic;}
+#playlist h3{ font-style:normal !important; text-align:left !important; font-family:arial;font-size:14px;text-transform:lowercase;color: #9c9c9c !important; font-weight:normal; background:url(http://static.tumblr.com/qft2cvq/1ytn26wno/3.png);} 
+#playlist {font-family:'Arial' !important; text-transform:lowercase; background-color:#fff !important;} 
+#playlist .focus{letter-spacing:1px;} #playlist .items{ list-style-type:circle !important; font-family:'Arial'; font-size:11px; } 
+#playlist .module {color: #cbcbcb; border:none !important; text-transform:lowercase;  font-style:italic;}
 #player .mainImage {background:url(http://puu.sh/vZjrW/b8e08083df.png);}
